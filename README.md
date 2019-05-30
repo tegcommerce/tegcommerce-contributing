@@ -21,6 +21,7 @@ there are many ways to contribute to the tegcommerce project!
 - manage and recruit members to the [core team](https://github.com/orgs/tegcommerce/teams)
 - manage and create [issues](https://github.com/tegcommerce/tegcommerce/issues)
 - publish about tegcommerce project in [medium](https://medium.com/)
+- publish about tegcommerce project in [wikipedia](https://www.wikipedia.org/)
 - share about the tegcommerce project in the [telegram](https://web.telegram.org/)
 - manage and interact with the [community](https://github.com/tegcommerce/tegcommerce-community)
     - [brazilian community [pt]](https://t.me/tegcommerce)
